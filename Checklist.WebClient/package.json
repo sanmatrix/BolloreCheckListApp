@@ -53,7 +53,7 @@
     "datatables.net-select-dt": "1.2.3",
     "tether": "1.4.0",
     "pdfmake": "0.1.36",
-    "jszip": "3.1.5"
+    "jszip": "3.7.0"
   },
   "devDependencies": {
     "@angular/cli": "1.7.3",
